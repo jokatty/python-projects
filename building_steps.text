@@ -1,0 +1,5 @@
+1. Create the project directory.
+2. Activate the virtual environment: pipenv shell
+3. install flask: pip install Flask
+4. Set the envirnment variable: export FLASK_APP=main.py
+5. Run the flask app: flask run 
